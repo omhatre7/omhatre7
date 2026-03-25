@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Omkar Mhatre 👋
 
-<!--
-**omhatre7/omhatre7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 QA Engineer | Automation Testing  
+🔍 Skilled in Selenium (Java), Postman, Manual Testing  
+📊 Knowledge of SQL, HTML, CSS  
+🤖 Currently learning Python, AI & Machine Learning  
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies
+- Selenium WebDriver (Java)
+- Postman (API Testing)
+- FireFlink
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+- To become Automation Test Engineer  
+- To grow in AI & Data field  
+
+## 📫 Contact Me
+- Email: omkar21mhatre@gmail.com
+- LinkedIn: www.linkedin.com/in/omkar-mhatre-0a8426315
